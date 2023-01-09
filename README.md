@@ -1,7 +1,7 @@
 # Child Nutrient Calculator
 
-- project given by UPGRAD
-- author  :-  Aryaroop Majumder
+- author  :-  Aaron Issac Abraham
+
 
 ## Features
 
